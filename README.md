@@ -7,4 +7,4 @@ This application is designed to be a frontend clone of the w3schools template - 
 ![Screenshot](homepage-interior.png)
 
 ## Deployed Application
-Click [here](https://angelomarlopez.github.io/InteriorDesignTemplate/) for Architect Template Live URL.
+Click [here](https://angelomarlopez.github.io/InteriorDesignTemplate/) for Interior Design Template Live URL.
